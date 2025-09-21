@@ -1,15 +1,25 @@
-// Test File.cs
-// Placeholder C# file for Module 3
-
-using System;
-
-namespace Module3
+public class Dogs
 {
-    class TestFile
+    // Fields
+    public string Name;
+    public string Breed;
+    public int Age;
+
+    // Constructor
+    public Dogs(string name, string breed, int age)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello from Test File.cs in Module 3!");
-        }
+        Name = name;
+        Breed = breed;
+        Age = age;
+    }
+    // Method to display dog information
+
+    public void Bark()
+    {
+        Console.WriteLine($"Name: {Name}, says: Woof!");
+    }
+    public void DisplayInfo()
+    {
+        Console.WriteLine($"Name: {Name}, Breed: {Breed}, Age: {Age}");
     }
 }
