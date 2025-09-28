@@ -1,0 +1,14 @@
+C:\Users\Corrinne\DivisionApp\bin\Debug\net9.0\DivisionApp.exe
+C:\Users\Corrinne\DivisionApp\bin\Debug\net9.0\DivisionApp.deps.json
+C:\Users\Corrinne\DivisionApp\bin\Debug\net9.0\DivisionApp.runtimeconfig.json
+C:\Users\Corrinne\DivisionApp\bin\Debug\net9.0\DivisionApp.dll
+C:\Users\Corrinne\DivisionApp\bin\Debug\net9.0\DivisionApp.pdb
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\DivisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\DivisionApp.AssemblyInfoInputs.cache
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\DivisionApp.AssemblyInfo.cs
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\DivisionApp.csproj.CoreCompileInputs.cache
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\DivisionApp.dll
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\refint\DivisionApp.dll
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\DivisionApp.pdb
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\DivisionApp.genruntimeconfig.cache
+C:\Users\Corrinne\DivisionApp\obj\Debug\net9.0\ref\DivisionApp.dll
